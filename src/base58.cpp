@@ -1,4 +1,5 @@
 // Copyright (c) 2014-2019 The Bitcoin Core developers
+// Copyright (C) 2020-2022 ACES ALLIANZ
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
